@@ -1,0 +1,5 @@
+1. $git branch -v :shows branch namecommit hash and commit messages
+2. $git branch --merged:shows which branches has been merged 
+3. $ git branch --no-merged:shows which branches have not been merged
+4. $git branch -d branch_name:deletes given branch  
+5. $ rm -rf .git:removes .git file from a folder so that the folder will not remain git repository.
